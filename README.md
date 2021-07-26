@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TWalstrom
 - 👀 I’m interested in data analytics and learning more about AI/ML
-- 🌱 I’m currently learning more about pandas and GUI combos
+- 🌱 I’m currently learning more about open source dashboarding and ML/AL
 - 💞️ I’m looking to collaborate on fun projects you might think I may be interested in
 - 📫 Message me if you'd like!
 
