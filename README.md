@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Travis Walstrom
-- 👀 I’m a Senior Data Analyst by trade
+- 👀 Senior Data Analyst by trade, Economics degree by training
 - 🌱 I’m currently implementing, and expanding my knowledge on <a href="https://github.com/plotly/dash" title="">Dash</a> and <a href="https://github.com/docker" title="">Docker</a>
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 Message me if you'd like!
