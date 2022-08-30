@@ -1,6 +1,6 @@
-- 📦 Senior Data Analyst in Analytics and Data Science at <a href="https://www.chrobinson.com/en-us/" title="">C.H. Robinson (NYSE: CHRW)</a>
+- 📦 Senior Data Analyst in the Advanced Analytics and Data Science Organization at <a href="https://www.chrobinson.com/en-us/" title="">C.H. Robinson (NYSE: CHRW)</a>
 - 🥶 Live in Minnesota USA, you will usually find me in cold places
-- 🌱 Learning more about <a href="https://github.com/apache/airflow" title="">AirFlow</a> and <a href="https://www.rust-lang.org/" title="">Rust</a>
+- 🌱 Learning more about <a href="https://www.gnu.org/software/bash/" title="">Bash</a>, <a href="https://github.com/apache/airflow" title="">AirFlow</a>, and <a href="https://www.rust-lang.org/" title="">Rust</a>
 
 <!---
 TWalstrom/TWalstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
