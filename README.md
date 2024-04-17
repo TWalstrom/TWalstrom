@@ -1,7 +1,4 @@
-- I live in Minnesota USA
-- I am learning Swedish
-
-- 🥶 Jag bor i Minnesota USA
+- 🥶 I live in Minnesota USA
 - Jag lär mig svenska
 <!---
 TWalstrom/TWalstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
